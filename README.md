@@ -59,7 +59,9 @@ To run simulations with PyPy, use the `pypy3` command instead of `python3`.
 
 ### M/M/1 simulation
 
-The model `models/simpy_m_m_1_mean.py` already provides an implementation of the M/M/1 model. Use this model to simulate Cases 1a and 1b. Do the results correspond to the analytical results?
+The model `models/simpy_m_m_1_mean.py` already provides an implementation of the M/M/1 model. Use this model to simulate Cases 1a and 1b. 
+
+Check that the simulation results correspond to the analytical results.
 
 
 
