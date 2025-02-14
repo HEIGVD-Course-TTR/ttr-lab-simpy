@@ -1,7 +1,6 @@
 Introduction to to capacity planning and performance analysis with SimPy
 ========================================================================
 
-
 In this lab, we want to use SimPy to simulate a single server system and evaluate the performance of the system. The system is depicted below.
 
 ![Single server system](images/queue.svg)
